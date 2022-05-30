@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "33d3130031e14ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9161eaccff4814d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SaaS Notes.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "907079cb7c283dcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8842680120fb84b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fbeea7084438ffa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41bbdd2dbc725ba4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "69b1a4727f7514a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da3d9a3e41f422e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44a52b4663493667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SaaS Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9161eaccff4814d",
+  "lastOpenFiles": [
+    "SaaS Notes.md",
+    "DASHBOARD.md",
+    "Daily/2022-05-29.md",
+    "SaaS.md",
+    "Learning.md",
+    "Sources.md",
+    "IEEE.md",
+    "School.md",
+    "Random Source.md",
+    "Topics.md"
+  ]
+}
