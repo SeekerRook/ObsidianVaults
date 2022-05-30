@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "2619c203467192cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dea011b3c68ab10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quick Notes/Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd6011686e9ac191",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bb91b4d48da658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b6b0f7a3e620e2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74c8680a66102b0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b20a9048b7fb2a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "34aa910f5fda4fd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99dc64a17f0ff778",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quick Notes/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8dea011b3c68ab10",
+  "lastOpenFiles": [
+    "Quick Notes/Untitled.md"
+  ]
+}
