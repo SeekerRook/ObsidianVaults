@@ -1,0 +1,1 @@
+An app that lets a number of people in a restaurant figure out how much each one should give each other to reduce ammount of change
