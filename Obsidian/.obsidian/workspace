@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b9161eaccff4814d",
+        "id": "be417d5c1dbe6106",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SaaS Notes.md",
+            "file": "LinkedIn by EY.md",
             "mode": "source",
-            "backlinks": false,
+            "backlinks": true,
             "source": false
           }
         }
@@ -28,14 +28,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fbeea7084438ffa",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "41bbdd2dbc725ba4",
             "type": "leaf",
             "state": {
@@ -49,8 +41,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f662bbb6dfa9cf2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SaaS Notes.md",
+                "file": "LinkedIn by EY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9161eaccff4814d",
+  "active": "be417d5c1dbe6106",
   "lastOpenFiles": [
-    "SaaS Notes.md",
-    "DASHBOARD.md",
-    "Daily/2022-05-29.md",
-    "SaaS.md",
-    "Learning.md",
-    "Sources.md",
+    "LinkedIn by EY.md",
     "IEEE.md",
-    "School.md",
-    "Random Source.md",
-    "Topics.md"
+    "Sources.md",
+    "Learning.md",
+    "DASHBOARD.md",
+    "Daily Schedule.md",
+    "SaaS Notes.md",
+    "Test.md",
+    "[IEEE.md",
+    "Random Topic.md"
   ]
 }
